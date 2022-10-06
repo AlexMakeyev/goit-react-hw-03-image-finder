@@ -26,8 +26,3 @@ ImageGalleryItem.propTypes = {
 
 
 
-ImageGalleryItem.propTypes = {
-  url: PropTypes.string.isRequired,
-  largeImageURL: PropTypes.string.isRequired,
-  onClick: PropTypes.func.isRequired,
-};
